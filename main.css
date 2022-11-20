@@ -1,0 +1,16 @@
+/*COMMON*/
+@import "assets/style/common/vars.css";
+@import "assets/style/common/general.css";
+@import "assets/style/common/fonts.css";
+
+/*BLOCKS*/
+@import "assets/style/blocks/container.css";
+@import "assets/style/blocks/btn.css";
+
+/*SECTIONS*/
+@import "assets/style/blocks/intro.css";
+@import "assets/style/blocks/benefit.css";
+@import "assets/style/blocks/products.css";
+@import "assets/style/blocks/business.css";
+
+

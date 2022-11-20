@@ -1,0 +1,19 @@
+/*VARS*/
+
+:root {
+    --base-font-family: 'Euclid Circular A', Arial;
+    --intro-bg-color: #CBECFF;
+    --main-bg-color: #F5F5F5;
+    --main-color: #29374E;
+    --additional-color: #1E2837;
+    --white-color: #fff;
+    --black-color: #000;
+    --light-color: #EFF9FF;
+    --light-color-2: #E9F6FF;
+    --secondaty-color: #0962E8;
+    --selected-color: #0962E8;
+    --border-radius-xs: 8px;
+    --border-radius-md: 20px;
+    --border-radius-lg: 30px;
+}
+

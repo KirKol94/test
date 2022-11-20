@@ -1,0 +1,24 @@
+/*GENERAL*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: var(--base-font-family);
+    font-weight: 400;
+    color: var(--main-color);
+}
+
+img {
+    max-width: 100%;
+}
+
+button{
+    font-family: var(--base-font-family);
+    border: none;
+    outline: none;
+    cursor: pointer;
+}
