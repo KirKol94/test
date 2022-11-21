@@ -1,0 +1,66 @@
+@font-face {
+    font-family: 'icons';
+    src: url('../icons/fonts/icons.eot?dunvqw');
+    src: url('../icons/fonts/icons.eot?dunvqw#iefix') format('embedded-opentype'),
+    url('../icons/fonts/icons.ttf?dunvqw') format('truetype'),
+    url('../icons/fonts/icons.woff?dunvqw') format('woff'),
+    url('../icons/fonts/icons.svg?dunvqw#icons') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+}
+
+[class^="icon_"], [class*=" icon_"]::before {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icons' !important;
+    speak: never;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon_benefit_1:before {
+    content: "\e900";
+    color: #0962e8;
+}
+
+.icon_benefit_2:before {
+    content: "\e901";
+    color: #0962e8;
+}
+
+.icon_benefit_3:before {
+    content: "\e902";
+    color: #0962e8;
+}
+
+.icon_benefit_4:before {
+    content: "\e903";
+    color: #0962e8;
+}
+
+.icon_business_1:before {
+    content: "\e904";
+    color: #0962e8;
+}
+
+.icon_business_2:before {
+    content: "\e905";
+    color: #0962e8;
+}
+
+.icon_business_3:before {
+    content: "\e906";
+    color: #0962e8;
+}
+
+.icon_business_4:before {
+    content: "\e907";
+    color: #0962e8;
+}
