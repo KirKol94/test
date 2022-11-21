@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', () => {
-  const langRu = document.querySelector('.js-language-ru')
-  const langEn = document.querySelector('.js-language-en')
+  const lang_ru = document.querySelector('.js_language_ru')
+  const lang_en = document.querySelector('.js_language_en')
 
   const changeLanguage = (lang1, lang2) => {
     lang1.addEventListener('click', e => {
@@ -12,6 +12,6 @@ document.addEventListener('DOMContentLoaded', () => {
     })
   }
 
-  changeLanguage(langEn, langRu)
-  changeLanguage(langRu, langEn)
+  changeLanguage(lang_en, lang_ru)
+  changeLanguage(lang_ru, lang_en)
 })
